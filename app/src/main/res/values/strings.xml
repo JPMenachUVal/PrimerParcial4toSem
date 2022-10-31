@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenachoPrimerParcial</string>
+    <string name="et_NProducto">Nombre del producto</string>
+    <string name="et_Precio">Precio de producto</string>
+    <string name="btn_Registro">Registrar producto</string>
+    <string name="txt_EmptyD" />
+</resources>
